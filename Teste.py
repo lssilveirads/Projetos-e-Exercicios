@@ -1,0 +1,7 @@
+a = (input("Digite algo e verifique se é 'True' ou 'False': "))
+print("Ele é alfabético e numerico?", a.isalnum())
+print("Ele é numérico?",a.isalnum())
+print("Ele é alfabético?",a.isalpha())
+print("Ele tem espaço?",a.isspace())
+print("Ele está em letra minuscula?",a.islower())
+print("Ele está em letra maiscula?",a.isupper())
